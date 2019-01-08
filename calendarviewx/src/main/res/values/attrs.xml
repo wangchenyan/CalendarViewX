@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CalendarViewX">
+        <attr name="cvSingleMode" format="boolean" />
+
+        <attr name="cvDayHeight" format="dimension" />
+
+        <attr name="cvWeekdayBackground" format="color|reference" />
+        <attr name="cvWeekdayTextSize" format="dimension" />
+        <attr name="cvWeekdayTextColor" format="color" />
+
+        <attr name="cvMonthTextSize" format="dimension" />
+        <attr name="cvMonthTextColor" format="color" />
+
+        <attr name="cvDayMargin" format="dimension" />
+        <attr name="cvDayTextSize" format="dimension" />
+
+        <attr name="cvDayTextColorNormal" format="color" />
+        <attr name="cvDayTextColorDisabled" format="color" />
+        <attr name="cvDayTextColorToday" format="color" />
+        <attr name="cvDayTextColorWeekend" format="color" />
+        <attr name="cvDayTextColorEndpoint" format="color" />
+        <attr name="cvDayTextColorMiddle" format="color" />
+
+        <attr name="cvDayColorEndpoint" format="color" />
+        <attr name="cvDayColorMiddle" format="color" />
+    </declare-styleable>
+</resources>
