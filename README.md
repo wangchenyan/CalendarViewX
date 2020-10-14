@@ -1,7 +1,7 @@
 # CalendarViewX
 Android日历控件，可用于选择机票往返日期。
 
-![]()
+![](https://raw.githubusercontent.com/wangchenyan/CalendarViewX/master/art/screenshot.gif)
 
 ## 使用
 暂无
